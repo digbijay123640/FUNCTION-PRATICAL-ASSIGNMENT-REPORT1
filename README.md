@@ -1,0 +1,2 @@
+# FUNCTION-PRATICAL-ASSIGNMENT-REPORT1
+Basic of Python,Condition,Loops,
